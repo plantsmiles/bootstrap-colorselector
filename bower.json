@@ -1,0 +1,25 @@
+{
+  "name": "ng-bootstrap-colorselector",
+  "version": "0.0.0",
+  "homepage": "https://github.com/plantsmiles/bootstrap-colorselector",
+  "authors": [
+    "John Samuelson <johnsamuelson@icloud.com>"
+  ],
+  "description": "A angular directive wrapping bootstrap-colorselector",
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "colorselector",
+    "colorpicker",
+    "color",
+    "swatch"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
