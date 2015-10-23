@@ -1,4 +1,5 @@
 angular.module('example', ['ngBootstrapColorSelector']).controller('MainCtrl', ['$scope', function($scope) {
+    //define all the colors
     $scope.colors = [
         {rgb: 106, hex: "#A0522D", name: "sienna"},
         {rgb: 47, hex: "#CD5C5C", name: "indianred"},
@@ -10,5 +11,6 @@ angular.module('example', ['ngBootstrapColorSelector']).controller('MainCtrl', [
         {rgb: 77, hex: "#48D1CC", name: "mediumturquoise"}
     ];
     
+    //default a color
     $scope.colorSelected = $scope.colors[0].hex;
 }]);
