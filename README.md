@@ -11,7 +11,7 @@ Clone the project, open demo.html
 
 ## Authors
 
-+ [@plantsmilesl](https://github.com/plantsmiles/)
++ [@plantsmiles](https://github.com/plantsmiles/)
 
 ## Inspired by:
 
