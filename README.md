@@ -3,7 +3,7 @@ ng-bootstrap-colorselector
 
 A colorselector for Twitter Bootstrap which lets you select a color from a predefined set of colors only.
 
-This project forks the work that [@Chrickel] did into a angular directive, link to original project below.
+This project forks the work that [@Chrickel](https://github.com/flaute/) did into a angular directive, link to original project below.
 
 ## Examples / Demo
 
